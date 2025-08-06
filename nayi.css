@@ -11,14 +11,14 @@ body {
 }
 
 .header {
-    background-color: #b30000;
+    background-color: #a53557;
     padding: 20px;
     text-align: center;
     font-size: 24px;
 }
 
 .nav {
-    background-color: #ff8000;
+    background-color: #44acac;
     padding: 15px;
     text-align: center;
     font-size: 18px;
@@ -31,21 +31,21 @@ body {
 }
 
 .sidebar {
-    background-color: #d94f4f;
+    background-color: #c94359;
     padding: 20px;
     width: 20%;
     text-align: center;
 }
 
 .content {
-    background-color: #ffa31a;
+    background-color: #1a8055;
     padding: 20px;
     width: 60%;
     text-align: center;
 }
 
 .footer {
-    background-color: #b30000;
+    background-color: #aa3964;
     padding: 15px;
     text-align: center;
     font-size: 16px;
